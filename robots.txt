@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://gpacalculator.github.io/sitemap.xml
+Sitemap: https://gpacalculatorhub.github.io/sitemap.xml
+
