@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://gpacalculator.github.io/sitemap.xml
